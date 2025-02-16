@@ -8,6 +8,7 @@ Heart disease is one of the leading causes of death worldwide. Understanding the
 Source: Kaggle - Heart Disease Data
 Records: 303 patients
 Features: 14 attributes including age, gender, cholesterol, blood pressure, and a target variable indicating the presence of heart disease.
+
 🔍 Key Objectives:
 
 ✔️ Check dataset structure and missing values
@@ -32,15 +33,24 @@ Seaborn
 The EDA script includes:
 
 General Information – Dataset shape & missing values
+
 Target Variable Analysis – Heart disease presence distribution
+
 Demographic Insights – Age and gender analysis
+
 Health Metrics – Blood pressure, cholesterol, heart rate stats
+
 Categorical Feature Analysis – Chest pain type & exercise-induced angina
+
 Visualizations – Age distribution, cholesterol comparison, outlier detection
-📷 Visualizations
+
+📷 Visualizations:
+
 Some of the visual insights include:
 📌 Age Distribution Histogram
+
 📌 Cholesterol Levels for Patients With & Without Heart Disease
+
 📌 Outlier Detection in Cholesterol & Blood Pressure
 
 📂 How to Use
