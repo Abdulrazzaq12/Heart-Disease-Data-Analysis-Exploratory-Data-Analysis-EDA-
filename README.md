@@ -56,7 +56,7 @@ Some of the visual insights include:
 📂 How to Use
 Clone this repository:
 
-git clone https://github.com/YOUR_USERNAME/heart-disease-eda.git  
+git clone https://github.com/Abdulrazzaq12/Heart-Disease-Data-Analysis-Exploratory-Data-Analysis-EDA-.git
 Install dependencies:
 
 pip install pandas matplotlib seaborn  
